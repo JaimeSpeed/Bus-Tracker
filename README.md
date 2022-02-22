@@ -17,3 +17,6 @@ Optional to make changes to the style map in stylemap.css.
 
 ## Step 3: 
 Open the bustracker.html file in a web browswer. 
+
+JaimeSpeed/Bus-Tracker is licensed under the
+MIT License
